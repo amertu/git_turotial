@@ -1,6 +1,6 @@
 ### Running the application:
 
-The backend can be started using the commmand mvnw spring-boot:run or running the class WendysRennpferdeApplication.java from the IDE. Then by executing the command ng serve, the user can navigate to the URL http://localhost:4200/ in order to access the user interface.
+The backend can be started using the commmand *mvnw spring-boot:run* or running the class *WendysRennpferdeApplication.java* from the IDE. Then by executing the command ng serve, the user can navigate to the URL http://localhost:4200/ in order to access the user interface.
 
 At page-loading all available owners with their specifications (name and id) should be loaded and presented in the owner's table. The user can add a new user by specifying his or her name and clicking on the button add.
 The owner table will be loaded and the new added owner's name with his or her generated id should be presented in the table. An owner can be deleted by clicking on the red delete button beside his or her name.
