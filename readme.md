@@ -1,4 +1,4 @@
-### Wendy's Friends
+# Wendy's Friends
 
 ## Running the application:
 
