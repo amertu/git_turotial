@@ -1,3 +1,5 @@
+### Wendy's Friends
+
 ## Running the application:
 
 The backend can be started using the commmand '''mvnw spring-boot:run''' or running the class *java/.../WendysRennpferdeApplication.java* from the IDE. Then by executing the command '''ng serve''', the user can navigate to the URL http://localhost:4200/ in order to access the user interface.
@@ -36,6 +38,7 @@ It is also possible to search for an availbe horse by specifying part or all of 
 
 ***Total workload: 192 hours***
 
+## Comments on the Project and the workload
 
 Learning of the technologies (spring boot und angular) is included in the workload list.
 The workload of techstories is added in the corresponding userstories.
